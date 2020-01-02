@@ -26,7 +26,7 @@
 * Visual Studio 2019
 
 #### 2.1.2. 使用方法
-1. 从[Release](https://gitee.com/mingkuang-Chuyu/Visual_Studio_Platform_Toolset/releases)中下载平台工具集二进制文件。
+1. 从[Release](https://github.com/mingkuang-Chuyu/Visual_Studio_Platform_Toolset/releases/latest)中下载平台工具集二进制文件。
 2. 安装.NET 3.5（Windows 8以及更高版本因为不自带，因此请先自行安装）
 3. 将压缩包内文件夹剪切到 C 盘。
 4. 双击 `VC2008.reg`。
