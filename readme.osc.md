@@ -16,7 +16,7 @@
 ## 2. 平台工具集
 
 ### 2.1. Visual Studio 2008(v90) 平台工具集
-##### 2.1.1. 兼容性
+#### 2.1.1. 兼容性
 仅支持x64操作系统，目前已知兼容以下IDE：
 * Visual Studio 2010
 * Visual Studio 2012
@@ -28,7 +28,7 @@
 #### 2.1.2. 使用方法
 1. 从[Release](https://github.com/mingkuang-Chuyu/Visual_Studio_Platform_Toolset/releases/latest)中下载平台工具集二进制文件。
 2. 安装.NET 3.5（Windows 8以及更高版本因为不自带，因此请先自行安装）
-3. 将压缩包内文件夹剪切到 C 盘。
+3. 将压缩包内文件夹解压到 C 盘。
 4. 双击 `VC2008.reg`。
 5. 启动新IDE，在项目属性 - 常规 - 平台工具集 - Visual Studio 2008(v90) 编译代码。
 

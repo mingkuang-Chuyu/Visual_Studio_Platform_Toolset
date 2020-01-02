@@ -17,7 +17,7 @@ Microsoft itself supports it, I'm just a porter of nature. It's easy for everyon
 ## 2. Platform Toolset
 
 ### 2.1. Visual Studio 2008(v90) Platform Toolset
-##### 2.1.1. Compatibility
+#### 2.1.1. Compatibility
 Only supports x64 operating system, currently known to be compatible with the following IDEs：
 * Visual Studio 2010
 * Visual Studio 2012
